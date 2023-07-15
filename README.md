@@ -43,6 +43,6 @@ If you have any questions, feel free to open an issue and ask for clarification 
 
 We appreciate your contributions and look forward to making "Whisker's Woodland Quest" even better together!
 
-License:
+## License:
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the MIT License.
