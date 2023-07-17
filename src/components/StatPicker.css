@@ -1,0 +1,20 @@
+.stats-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+  margin: auto;
+}
+.stat-cell {
+  max-height: 30dvh;
+  aspect-ratio: 1;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid #999;
+  border-radius: 5px;
+}
+.score {
+  font-size: xx-large;
+}
