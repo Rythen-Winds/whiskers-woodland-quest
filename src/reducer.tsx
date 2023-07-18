@@ -1,5 +1,7 @@
 import { GameState } from "./types";
 
+//!This Should be Deprecated in favor of useGameState
+
 export const initialGameState: GameState = {
   name: "Player",
   health: 100,
